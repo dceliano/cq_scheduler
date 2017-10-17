@@ -1,0 +1,45 @@
+McFadden, LOS Status: False, Free Periods: ['M0730', 'M0930', 'M1030', 'M1330', 'M0730', 'M1030', 'M1230']
+Preferences: ['mon1130', 'mon1230', 'tue1130', 'wed1130'] Can't Sit: ['tue1530', 'wed1530', 'sat0630']
+
+Grimes, LOS Status: False, Free Periods: ['M1430', 'M0730', 'M0930', 'M1030', 'M1230']
+Preferences: ['wed1530', 'thu1130', 'tue1230', 'mon1430'] Can't Sit: ['sat0630', 'sun1030', 'fri2400']
+
+Kopp, LOS Status: False, Free Periods: ['M1330', 'M1430', 'M1230', 'M1430']
+Preferences: ['mon0630', 'tue0630', 'wed0630', 'thu0630'] Can't Sit: ['mon1330', 'wed1430', 'fri1330']
+
+Oxford, LOS Status: False, Free Periods: ['M0930', 'M1430', 'M0830', 'M0930', 'M1030', 'M1330', 'M1430']
+Preferences: ['tue0830', 'tue0930', 'mon1430', 'thu1330'] Can't Sit: ['thu0930', 'thu1030', 'thu1130']
+
+Mair, LOS Status: False, Free Periods: ['M1330', 'M1430', 'M1230', 'M1330', 'M1430']
+Preferences: ['tue0630', 'tue1130', 'tue1430', 'tue1530'] Can't Sit: ['fri1130', 'tue1230', 'fri0630']
+
+Wu, LOS Status: False, Free Periods: ['M0930', 'M1330', 'M1430', 'M0730', 'M0830', 'M1230']
+Preferences: ['tue1130', 'thu0830', 'wed2200', 'mon1530'] Can't Sit: ['fri1030', 'tue1230', 'fri1330']
+
+Rochester, LOS Status: True, Free Periods: ['M0730', 'M0830', 'M0930', 'M1030', 'M1230']
+Preferences: ['tue0930', 'thu0930', 'wed0830', 'fri0830'] Can't Sit: ['mon1030', 'wed1030', 'fri1030']
+
+Perez, LOS Status: False, Free Periods: ['M0730', 'M1030', 'M1430', 'M0730', 'M0830', 'M1230', 'M1430']
+Preferences: ['mon1030', 'tue1430', 'wed0730', 'thu1430'] Can't Sit: ['tue0730', 'thu0730', 'fri1230']
+
+Bramblett, LOS Status: True, Free Periods: ['M1330', 'M1430', 'M1030', 'M1230']
+Preferences: ['tue1030', 'thu1030', 'tue1230', 'thu1230'] Can't Sit: ['sat2400', 'sun2200', 'fri2400']
+
+Kiedinger, LOS Status: True, Free Periods: ['M0930', 'M1030', 'M0830', 'M1230']
+Preferences: ['mon0930', 'tue1530', 'wed0930', 'thu1530'] Can't Sit: ['fri1030', 'sat1030', 'sun1030']
+
+Hall, LOS Status: True, Free Periods: ['M1330', 'M0730', 'M1430']
+Preferences: ['mon2200', 'tue2200', 'wed2200', 'thu2200'] Can't Sit: ['mon0730', 'wed0730', 'fri0730']
+
+Bultsma, LOS Status: False, Free Periods: ['M0730', 'M0930', 'M0730', 'M0830', 'M1230', 'M1430']
+Preferences: ['tue1530', 'thu1530', 'wed1430', 'mon1430'] Can't Sit: ['sun0730', 'sat1230', 'fri2400']
+
+Britt, LOS Status: False, Free Periods: ['M0730', 'M0830', 'M1330', 'M1430']
+Preferences: ['mon0730', 'mon0830', 'wed0730', 'wed0830'] Can't Sit: ['sat2400', 'sun2200', 'fri2400']
+
+Holcombe, LOS Status: False, Free Periods: ['M0730', 'M0730', 'M0830', 'M0930', 'M1330', 'M1430']
+Preferences: ['tue0830', 'thu0830', 'mon1230', 'wed1230'] Can't Sit: ['fri2400', 'sun1530', 'sat1530']
+
+Deaton, LOS Status: True, Free Periods: ['M1330', 'M1430', 'M0730', 'M0830']
+Preferences: ['thu0730', 'thu0830', 'tue0830', 'tue0730'] Can't Sit: ['fri1530', 'fri1430', 'fri1330']
+
